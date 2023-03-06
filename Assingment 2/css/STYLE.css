@@ -1,0 +1,98 @@
+
+/* padding*/
+body {
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    
+  }
+
+  body {
+    border: 50px solid rgb(5, 0, 0);
+    padding: 50px;
+  }
+  
+
+/*fonts*/ 
+h1{
+font-family: 'Comfortaa', cursive;
+font-size: 50px;
+font-weight: bolder;
+}
+      
+ h2, h3 ,h4, h6,{
+    font-family: "Comfortaa", sans-serif;
+}
+h3{
+    padding: 10px;
+}
+h7{
+    padding-top 25px;
+    font-family: "Comfortaa", sans-serif;
+}
+h8{
+     font-family: "Comfortaa", sans-serif;
+    text-align: left;
+}
+
+h9{
+    font-family: "Comfortaa", sans-serif;
+    font-size: 14px;
+}
+
+p, a, li{
+
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+}
+
+/*This is for the centering of logo and text*/
+body{
+    margin: 20px;
+    }
+
+    header{
+        width:70%;
+        height: 250px;
+        backround-color: #000000;
+        margin: auto;
+        text-align: center;
+        
+        padding 2% 5%
+        Padding 2% 5% 2% 5%
+    }
+
+    /*padding for writing under pizzas*/
+
+blockquote{
+   padding: 35px; 
+} 
+
+/* padding for sauces*/
+
+figcaption {
+    padding: 20px;
+  }
+  
+/*Padding for the checkout*/
+
+button {
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+  }
+  
+  footer {
+    border: 1px solid black;
+    padding: 10px;
+  }
+  
+/*This is for image size*/
+{
+<img src="body" style="width: 300px; height: auto;">
+}
+
+
+/
